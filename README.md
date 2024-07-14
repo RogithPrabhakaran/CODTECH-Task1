@@ -1,2 +1,3 @@
-# Internship_1
-code of first question of the internship
+Name: ROGITH P M
+Company: CODTECH IT SOLUTIONS
+ID: CT08DS2383
